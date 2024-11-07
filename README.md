@@ -86,7 +86,7 @@
 - 🎮 [Discord.py Guide](https://discordpy.readthedocs.io/)
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GinjiDev&theme=radical" alt="Stats" width="30%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GinjiDev&theme=radical" alt="Stats" width="60%" />
 </p>
 
 ---
