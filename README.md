@@ -45,15 +45,13 @@
 ### 📈 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gindji&theme=monokai" alt="Profile Summary Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GinjiDev&theme=radical" alt="Profile Summary"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gindji&theme=monokai" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gindji&theme=monokai" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GinjiDev&theme=radical" alt="Repos per Language"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gindji&theme=monokai" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gindji&theme=monokai&utcOffset=3" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GinjiDev&theme=radical" alt="Stats"/>
 </p>
 
 ---
