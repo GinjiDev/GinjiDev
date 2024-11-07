@@ -83,6 +83,8 @@
 - 🌐 [FastAPI Documentation](https://fastapi.tiangolo.com/)
 - 🎮 [Discord.py Guide](https://discordpy.readthedocs.io/)
 
+---
+
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GinjiDev&theme=radical" alt="Stats" width="60%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GinjiDev&layout=compact&theme=github_dark" alt="Stats" width="60%" />
