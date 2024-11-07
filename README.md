@@ -68,8 +68,7 @@
 
 ### 🔗 Связь со мной
 
-- 🌐 **Сайт**: [mivian](https://mivian.ru)
-- 📬 **Email**: [No :(](mailto:ginji@example.com)
+- 🌐 **Discord**: [shaddigo](https://mivian.ru](https://discord.gg/53BxqhHt3Y))
 
 ---
 
