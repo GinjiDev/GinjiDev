@@ -7,13 +7,6 @@
     <img src="https://i.pinimg.com/originals/2f/b2/9c/2fb29c49086d839de3e7a7e372b12a4e.gif" alt="night_sky" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
 ---
 
 ### 🔥 О себе
