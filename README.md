@@ -45,13 +45,19 @@
 ### 📈 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GinjiDev&theme=radical" alt="Profile Summary"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=GinjiDev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GinjiDev&theme=radical" alt="Repos per Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GinjiDev&theme=radical" alt="Profile Summary"/>
 </p>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GinjiDev&theme=radical" alt="Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GinjiDev&theme=radical" alt="Repos per Language"/>
+</p>
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GinjiDev&theme=radical" alt="Stats"/>
 </p>
 
 ---
