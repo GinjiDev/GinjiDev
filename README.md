@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Привет! Я — Gindji 👋</h1>
+<h3 align="center">Разработчик и хранитель древних знаний программирования</h3>
 
-<!--
-**GinjiDev/GinjiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+    <img src="https://i.pinimg.com/originals/2f/b2/9c/2fb29c49086d839de3e7a7e372b12a4e.gif" alt="night_sky" width="100%">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+---
+
+### 🔥 О себе
+
+> "Никакой код не бывает слишком загадочным, если за ним стоит истинный мастер." — Gindji
+
+- 🌌 Путешественник по мирам кода и данных
+- 🔮 Владею древним искусством создания ботов и веб-приложений
+- ⚙️ Создаю сложные и мощные системы с применением FastAPI, Python, и Discord.py
+- 🌐 Интересуюсь всем, что связано с разработкой интерфейсов и автоматизацией процессов
+
+---
+
+### 🛠 Мой арсенал
+
+<div align="center">
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-FastAPI-009688?logo=FastAPI&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge" />
+</div>
+
+---
+
+### 📈 GitHub Статистика
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gindji&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### ⚔️ Текущие проекты
+
+| Проект                | Описание                                                 |
+|-----------------------|----------------------------------------------------------|
+| 🎮 **Discord Bot**    | Бот с возможностью добавления кастомных модификаций      |
+| 📊 **Survey System**  | Система онлайн-опросов с удобной настройкой и отчетами   |
+| 📷 **Image Generator**| Генерация и анализ изображений с использованием AI       |
+
+---
+
+### 🌌 Цитата
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=03DAC5&center=true&vCenter=true&width=440&lines=%22Не+нажимайте+на+кнопку+%E2%80%94+я+уже+всё+сделал!%22">
+</div>
+
+---
+
+### 🔗 Связь со мной
+
+- 🌐 **Сайт**: [gindji.dev](https://example.com)
+- 📬 **Email**: [gindji@example.com](mailto:gindji@example.com)
+
+---
+
+<p align="center">
+    <img src="https://i.pinimg.com/originals/9f/19/c9/9f19c94c1f7f6fd7b4b78c8cb1f2c272.gif" width="80%" alt="moonlight">
+</p>
+
+---
+
+### 💡 Полезные ресурсы
+
+- 📖 [Learn Python](https://www.learnpython.org/)
+- 🌐 [FastAPI Documentation](https://fastapi.tiangolo.com/)
+- 🎮 [Discord.py Guide](https://discordpy.readthedocs.io/)
+
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Gindji&theme=react-dark&hide_border=true" alt="Activity Graph">
+</p>
+
+---
+
+<p align="center">
+    <strong>Спасибо за визит! Удачного кода! 🖖</strong>
+</p>
