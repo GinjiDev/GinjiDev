@@ -48,7 +48,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=GinjiDev&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GinjiDev&theme=radical" alt="Profile Summary" width="61%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GinjiDev&theme=radical" alt="Repos per Language" width="30%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GinjiDev&theme=radical" alt="Stats" width="30%" />
 </div>
 
 ---
@@ -101,7 +100,7 @@
 - 🎮 [Discord.py Guide](https://discordpy.readthedocs.io/)
 
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=GinjiDev&theme=react-dark&hide_border=true" alt="Activity Graph">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GinjiDev&theme=radical" alt="Stats" width="30%" />
 </p>
 
 ---
