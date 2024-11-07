@@ -10,8 +10,7 @@
 <h1 align="center">Привет! Я — Ginji 👋</h1>
 <h3 align="center">Разработчик и хранитель древних знаний программирования</h3>
 
----
-
+<h1 align="center">─────── •°• ❀ •°•   •° ❀ •°• ───────</h1>
 <p align="center">
     <img src="https://i.pinimg.com/originals/2f/b2/9c/2fb29c49086d839de3e7a7e372b12a4e.gif" alt="night_sky" width="100%">
 </p>
