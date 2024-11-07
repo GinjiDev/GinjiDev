@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Discord.py-7289DA?logo=discord&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-PyQt6-41C7E6?logo=PyQt&logoColor=black&style=for-the-badge" />
 </div>
 
 ---
