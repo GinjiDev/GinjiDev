@@ -101,7 +101,7 @@
 - 🎮 [Discord.py Guide](https://discordpy.readthedocs.io/)
 
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Gindji&theme=react-dark&hide_border=true" alt="Activity Graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=GinjiDev&theme=react-dark&hide_border=true" alt="Activity Graph">
 </p>
 
 ---
