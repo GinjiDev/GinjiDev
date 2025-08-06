@@ -60,7 +60,7 @@
 
 ### 🔗 Связь со мной
 
-- 🌐 **Discord**: [shaddigo](https://discord.gg/53BxqhHt3Y)
+- 🌐 **Discord**: [MivianHub](https://discord.gg/53BxqhHt3Y)
 
 ---
 
